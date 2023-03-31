@@ -1,7 +1,7 @@
 {
     "name":"Food App",
     "short_name":"foodapp",
-    "start_url":"/exp6.html",
+    "start_url":"/index.html",
     "display":"standalone",
     "background_color":"#FFE9D2",
     "theme_color":"#FFE9D2",
